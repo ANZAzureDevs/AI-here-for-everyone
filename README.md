@@ -24,3 +24,4 @@ If you'd like more of this style of content, consider our monthly developer news
 - Azure Cogntive Services: https://azure.microsoft.com/services/cognitive-services/
 - Power Platform - AI Builder - Microsoft Learn: https://docs.microsoft.com/learn/paths/bring-ai/
 - Project Volterra: https://blogs.windows.com/windowsdeveloper/2022/05/24/create-next-generation-experiences-at-scale-with-windows/
+- Useful tips and tricks on working with Azure: https://blog.siliconvalve.com/
